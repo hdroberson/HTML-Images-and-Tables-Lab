@@ -1,0 +1,47 @@
+body  {
+    padding: 0px;
+    background-color: antiquewhite;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+h1  {
+    color: lightskyblue;
+    text-align: center;
+}
+
+.main-container  {
+    margin-top: 20px;
+    margin-bottom: 50px;
+
+}
+
+p  { 
+    margin-left: 20px;
+}
+
+img  {
+    float: right;
+    padding: 5px; 
+}
+
+.short-hr  {
+    width: 500px;
+}
+
+table  {
+    margin-left: 20px;
+}
+
+th {
+    width: 150px;
+    padding: 5px;
+    background-color: lavender;
+    color:  rgb(62, 110, 126);
+    text-align: left;
+    border-bottom: 1px solid black;
+}
+
+tbody td {
+    border-bottom: 1px solid black;
+}
+
